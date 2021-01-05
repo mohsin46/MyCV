@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  background-color: #e8ffff;
+  margin: 0;
+  padding-top: 10px;
+}
+
+hr {
+  background: none;
+  border: none;
+  width: auto;
+  height: 0;
+  margin: 0;
+  border-top: 2px dotted #00587a;
+  border-left: 150px solid transparent; /* shortening left side*/
+  border-right: 150px solid transparent; /* shortening right side*/
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: #0F3057;
+  font-size: 70px;
+}
+
+h3 {
+  font-family: 'Courgette', cursive;
+  /* font-family: 'Acme', sans-serif; */
+  color: #00587a;
+  font-size: 30px;
+  margin: 15px auto;
+
+}
+
+h4 {
+  /* font-family: 'Courgette', cursive; */
+  font-family: 'Acme', sans-serif;
+  color: #0F3057;
+  font-size: 60px;
+  margin: 0;
+
+}
+
+
+.birds {
+  height: 100px;
+  position: absolute;
+  right: 410px;
+  bottom: 250px;
+}
+
+.cloud1 {
+  height: 100px;
+  position: relative;
+  left: 370px;
+  padding-top: 30px;
+}
+
+.cloud2 {
+  height: 100px;
+  position: absolute;
+  left: 230px;
+  bottom: 350px;
+}
+
+.mountain {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+
+.skill-title {
+  font-size: 40px;
+  color: #00587a;
+  font-family: 'Acme';
+}
+
+
+.skill-img {
+  margin: 20px;
+  padding: 30px;
+  height: 250px;
+}
+
+.myskills-img {
+  width: 150px;
+}
+
+.skill-description {
+  display: inline-block;
+  text-align: left;
+  font-family: arial;
+  padding-left: 50px;
+  position: relative;
+  bottom: 50px;
+}
+
+.skill-info {
+  text-align: left;
+  margin-left: 300px;
+}
+
+.contact-img {
+  padding: 100px;
+  padding-bottom: 25px;
+  width: 100px;
+}
+
+.top {
+  padding-top: 10px;
+  padding-bottom: 75px;
+}
+
+.middle {
+  padding: 75px;
+}
+
+.bottom {
+  padding: 75px;
+}
